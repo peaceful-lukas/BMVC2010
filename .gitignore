@@ -1,0 +1,7 @@
+.DS_Store
+cca_feat_data.mat
+data/all_images/00*
+data/test_images/00*
+data/train_images/00*
+
+

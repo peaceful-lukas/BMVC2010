@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <general>
+        <rootPath>~/Desktop/BMVC2010/</rootPath>
+        <numOfWords>399</numOfWords>
+    </general>
+    <train>
+        <dataSize>1000</dataSize>
+    </train>
+    <test>
+        <dataSize>50</dataSize>
+        <numOfRetrieved>100</numOfRetrieved>
+        <numOfShown>5</numOfShown>
+    </test>
+</config>
